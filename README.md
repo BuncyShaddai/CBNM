@@ -8,19 +8,19 @@
     * algebraic expression 
     * logarithmic expressiong
     * trignometric expression
-2. Chebychew 
+2. Chebyshew's Method
     * algebraic expression 
     * logarithmic expressiong
     * trignometric expression
-3. Newton-Raphson
+3. Newton-Raphson's Method
     * algebraic expression 
     * logarithmic expressiong
     * trignometric expression
-4. Regula-Falsi 
+4. Regula-Falsi Method
     * algebraic expression 
     * logarithmic expressiong
     * trignometric expression
-5. Secant 
+5. Secant Method
     * algebraic expression 
     * logarithmic expressiong
     * trignometric expression
